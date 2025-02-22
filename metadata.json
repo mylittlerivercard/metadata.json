@@ -1,7 +1,7 @@
 {
-    "name": "MylittleRiVerCard",
-    "symbol": "MLRCOIN",
-    "description": "MLRCOIN is a token based on the My Little River Card game application, offering exciting gameplay experiences with a unique rewards system. Dive into the world of poker and enhance your gaming journey.",
-    "image": "https://mylittlerivercard-assets.s3.us-east-1.amazonaws.com/mlpcoin.jpg"
+    "name": "testingcoin",
+    "symbol": "testcoin",
+    "description": "just created for testing .",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQty-Oszl2LhxqLGAXHP-v4d4F4nErx559V_A&s"
   }
   
