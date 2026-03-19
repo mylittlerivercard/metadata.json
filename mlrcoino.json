@@ -1,7 +1,7 @@
 {
-  "name": "MLRCoin-O",
-  "symbol": "MLRCO",
-  "description": "MLRCoin-O is a utility token for the Trace & Anchor service, providing technical access credits for blockchain-based proof-of-existence operations. Compliant with MiCA Title II regulations.",
+  "name": "MLRCOIN-O",
+  "symbol": "MLRCOIN",
+  "description": "MLRCOIN-O is a utility token for the Trace & Anchor service, providing technical access credits for blockchain-based proof-of-existence operations. Compliant with MiCA Title II regulations.",
   "image": "https://raw.githubusercontent.com/mylittlerivercard/metadata.json/main/mlrcoin.webp",
   "external_url": "https://www.traceandanchor.com",
   "properties": {
@@ -11,22 +11,12 @@
         "uri": "https://raw.githubusercontent.com/mylittlerivercard/metadata.json/main/mlrcoin.webp",
         "type": "image/webp"
       }
-    ],
-    "creators": [
-      {
-        "address": "DEPLOYER_WALLET_ADDRESS_HERE",
-        "share": 100
-      }
     ]
   },
   "attributes": [
     {
       "trait_type": "Token Type",
       "value": "Utility Token"
-    },
-    {
-      "trait_type": "Blockchain",
-      "value": "Solana"
     },
     {
       "trait_type": "Standard",
@@ -43,22 +33,6 @@
     {
       "trait_type": "Regulation",
       "value": "MiCA Title II Compliant"
-    },
-    {
-      "trait_type": "Service",
-      "value": "Trace & Anchor"
-    },
-    {
-      "trait_type": "Function",
-      "value": "Technical Access Credit"
-    },
-    {
-      "trait_type": "Issuer",
-      "value": "DELTA MULTIMEDIA FRANCE"
     }
-  ],
-  "collection": {
-    "name": "MLRCoin-O",
-    "family": "Trace & Anchor Ecosystem"
-  }
+  ]
 }
