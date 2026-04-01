@@ -1,7 +1,6 @@
-                                                                                                                                                                                                                                            
-  {                                                                                                                                                                                                                                       
+  {
     "name": "MLRCOIN-O",                                                                                                                                                                                                                    
-    "symbol": "MLRCOIN",                                                                                                                                                                                                                  
-    "description": "MLRCOIN-O is a utility token for the Trace & Anchor service, providing technical access credits for blockchain-based proof-of-existence operations. Compliant with MiCA Title II regulations.",                         
-    "image": "https://raw.githubusercontent.com/mylittlerivercard/metadata.json/main/mlrcoin.webp"
-  }  
+    "symbol": "MLRCOIN",
+    "description": "MLRCOIN-O is a utility token for the Trace & Anchor service, providing technical access credits for blockchain-based proof-of-existence operations. Compliant with MiCA Title II regulations.",
+    "image": "https://raw.githubusercontent.com/mylittlerivercard/metadata.json/main/mlrcoin.webp"                                                                                                                                          
+  }
