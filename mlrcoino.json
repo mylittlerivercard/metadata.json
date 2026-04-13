@@ -4,7 +4,7 @@
   "description": "MLRCOIN-O is a utility token (Token-2022) issued by DELTA MULTIMEDIA FRANCE under MiCA Title II (Reg. EU 2023/1114). Each indivisible unit serves as a technical access credit for activating proof-of-existence operations on the Trace & Anchor service. MLRCOIN-O confers no financial rights, no governance rights, and no claim against the issuer. The token is not a financial instrument under MiFID II, not an asset-referenced token (ART), and not an electronic money token (EMT).",
   "image": "https://raw.githubusercontent.com/mylittlerivercard/metadata.json/main/mlrcoin.png",
   "external_url": "https://www.traceandanchor.com",
-  "token_standard": "FungibleAsset",
+  "token_standard": "Fungible",
   "decimals": 0,
   "tags": [
     "utility-token",
